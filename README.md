@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AnsariSalauddin&theme=dark" alt="GitHub Streak" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnsariSalauddin&theme=dark" alt="Contribution Graph" />
 </div>
 
