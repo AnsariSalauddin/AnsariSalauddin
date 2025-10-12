@@ -1,17 +1,14 @@
 # 👋 Hi, I'm Salauddin Ansari  
 ### A passionate Full Stack Developer from India 🇮🇳  
 
-🔭 I’m currently working on **Spring Boot & React**  
-🌱 I’m currently learning **AWS & Advanced React Patterns**  
-💬 Ask me about **Java, Spring Boot, React, or Databases**  
-⚡ Fun fact: I like pizza 🍕 but try to avoid it 😄  
+🔭 I’m currently working on **Spring Boot & React** 🌱 I’m currently learning **AWS & Advanced React Patterns** 💬 Ask me about **Java, Spring Boot, React, or Databases** ⚡ Fun fact: I like pizza 🍕 but try to avoid it 😄  
 
 ---
 
 ### 🌐 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  <-- UPDATE THIS -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  <-- UPDATE THIS -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  <-- UPDATE THIS -->
 
 ---
 
@@ -31,8 +28,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
 ---
 
 ### 🛠️ Tools & Platforms
@@ -50,7 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AnsariSalauddin&show_icons=true&theme=dark" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariSalauddin&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
 ---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Your+First+Line!%3BYour+Second+Line%3BAnd+so+on" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+checking+out+my+profile!%3BLet's+build+something+great+together!" alt="Typing SVG" />
 </div>
