@@ -44,5 +44,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-![GitHub Snake dark](https://raw.githubusercontent.com/SalauddinAnsari/SalauddinAnsari/output/snake-dark.svg#gh-dark-mode-only)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnsariSalauddin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
