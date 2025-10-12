@@ -30,8 +30,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/SalauddinAnsari/SalauddinAnsari/output/snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/SalauddinAnsari/SalauddinAnsari/output/snake-dark.svg#gh-dark-mode-only)
 
 
 ---
@@ -44,3 +42,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+![GitHub Snake Light](https://raw.githubusercontent.com/SalauddinAnsari/SalauddinAnsari/output/snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/SalauddinAnsari/SalauddinAnsari/output/snake-dark.svg#gh-dark-mode-only)
