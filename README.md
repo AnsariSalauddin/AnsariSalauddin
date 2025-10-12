@@ -29,14 +29,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnsariSalauddin&show_icons=true&theme=dark" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariSalauddin&layout=compact&theme=dark" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=AnsariSalauddin&theme=dark" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnsariSalauddin&theme=dark" alt="Contribution Graph" />
