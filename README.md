@@ -51,5 +51,5 @@
 </div>
 
 <div align="center">
-  <img src="YOUR_TYPING_SVG_URL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Your+First+Line!%3BYour+Second+Line%3BAnd+so+on" alt="Typing SVG" />
 </div>
