@@ -45,4 +45,8 @@
 
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnsariSalauddin&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariSalauddin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnsariSalauddin&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariSalauddin&layout=compact&theme=dark" alt="Top Languages" />
+</div>
