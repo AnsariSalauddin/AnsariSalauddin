@@ -6,9 +6,9 @@
 ---
 
 ### 🌐 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 
 ---
 
@@ -30,11 +30,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnsariSalauddin&theme=dark" alt="Contribution Graph" />
-</div>
----
-
 ### 🛠️ Tools & Platforms
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,9 +41,15 @@
 
 ---
 
+## 📈 My GitHub Stats 📈
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnsariSalauddin&show_icons=true&theme=dark" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsariSalauddin&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=AnsariSalauddin&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnsariSalauddin&theme=dark" alt="Contribution Graph" />
 </div>
 
 ---
