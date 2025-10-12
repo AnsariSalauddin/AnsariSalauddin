@@ -44,5 +44,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/SalauddinAnsari/SalauddinAnsari/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/SalauddinAnsari/SalauddinAnsari/output/snake-dark.svg#gh-dark-mode-only)
+
