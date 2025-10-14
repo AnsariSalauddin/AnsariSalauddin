@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Salauddin Ansari  
 ### A passionate Full Stack Developer from India 🇮🇳  
 
-🔭 I’m currently working on **Spring Boot & React** 🌱 I’m currently learning **AWS & Advanced React Patterns** 💬 Ask me about **Java, Spring Boot, React, or Databases** ⚡ Fun fact: I like pizza 🍕 but try to avoid it 😄  
+
 
 ---
 
