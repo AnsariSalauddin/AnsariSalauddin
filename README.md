@@ -1,7 +1,7 @@
-<p align="center">
-  🚀 <b>#Hello, I'm Salauddin Ansari!</b><br>
+
+  🚀#Hello, I'm Salauddin Ansari!
   Java Full Stack Developer | Spring Boot | ReactJS
-</p>
+
 
 
 
