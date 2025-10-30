@@ -1,5 +1,5 @@
 
-  🚀#Hello, I'm Salauddin Ansari!
+  #Hello, I'm Salauddin Ansari!
   Java Full Stack Developer | Spring Boot | ReactJS
 
 
