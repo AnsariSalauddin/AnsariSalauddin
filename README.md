@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Salauddin Ansari  
-### A passionate Full Stack Developer from India 🇮🇳  
+<p align="center">
+  🚀 <b>Hello, I'm Salauddin Ansari!</b><br>
+  Java Full Stack Developer | Spring Boot | ReactJS
+</p>
 
 
 
