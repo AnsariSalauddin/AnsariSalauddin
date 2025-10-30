@@ -1,11 +1,10 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Salauddin+Ansari!;Java+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!;Explore+my+projects+and+code+✨" alt="Typing SVG" />
 </div>
-
-
-
-
+---
+# Hello, I'am Salauddin Ansari
+# Java Developer
 
 ---
 
@@ -33,7 +32,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 
-
 ---
 
 ### 🛠️ Tools & Platforms
@@ -58,6 +56,6 @@
 
 ---
 
-<div align="center">
+<div >
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+checking+out+my+profile!%3BLet's+build+something+great+together!" alt="Typing SVG" />
 </div>
