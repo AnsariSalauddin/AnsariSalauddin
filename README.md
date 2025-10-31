@@ -39,8 +39,8 @@
 ### ⚙️ Frameworks & Libraries
 <p align="">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-1572B6?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-E34F26?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
